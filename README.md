@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&left=true&vLeft=true&width=500&height=250&duration=2000&lines=I'm+Doaa+Safwat;Flutter%20Developer+😎;&color=4C53A5" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&left=true&vLeft=true&width=400&height=250&duration=2000&lines=I'm+Doaa+Safwat;Flutter%20Developer+😎;&color=4C53A5" />
     <img align="right" alt="MyLife" width="400" height="250px" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif?cid=790b7611rb8cp36foa8zqipr0yzqyv3d79uoce4fn7lbxott&ep=v1_gifs_search&rid=giphy.gif&ct=g ">
 </div>
 <p align="center">
