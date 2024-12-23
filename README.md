@@ -23,7 +23,6 @@ I'm focused on building responsive, cross-platform mobile applications with Flut
 ## 🤝 Connect with Me:
 <p align="left">
   	<a href="https://www.linkedin.com/in/doaa-safwat-794b72289/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" width="60" height="30"/></a>
-	<a href="https://wa.me/+201204533186"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" width="60" height="30"/></a>
 <a href="mailto:doaasafwat54@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" width="60" height="30"/></a>
 </p>
 
